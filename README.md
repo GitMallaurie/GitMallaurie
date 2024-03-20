@@ -1,6 +1,7 @@
 # Hey, I'm Mallaurie ! 
 
-![Banner](https://media.licdn.com/dms/image/D4E16AQE5w4xOwJe3Rg/profile-displaybackgroundimage-shrink_350_1400/0/1710930698535?e=1716422400&v=beta&t=rw15i9vi64pPA1V9AhTzOFIpL1_ziNqCy0zsvupbgVw)
+![Banner](https://github.com/GitMallaurie/GitMallaurie/assets/68752440/3459b16e-f876-4b01-8bfc-cdf9bf4bc7d4)
+
 ## ✒️ About me
 
 I am a __budding developer__ and a retired 3D artist. 🎨 As you may have guessed, I am currently undergoing a __career change__. 
