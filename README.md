@@ -4,7 +4,7 @@
 
 ## ✒️ About me
 
-I am a __budding developer__ and a retired 3D artist. 🎨 As you may have guessed, I am currently undergoing a __career change__. 
+I am a __budding developer__ and a retired 3D artist. As you may have guessed, I am currently undergoing a __career change__. 
 In my previous job, I used to code little scripts, and I _really_ loved it, so why not continue in this path?
 
 I previously worked for __Axa and Ubisoft__, two great experiences that taught me a lot. Now __I am looking for a great opportunity__ that will help me achieve my new career goal, so please don't hesitate to __contact me__!
